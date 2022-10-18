@@ -1,5 +1,5 @@
 public class Fluxo {
-
+	
 	public static void main(String[] args) {
 		System.out.println("Ini do main");
 		try {
@@ -27,5 +27,6 @@ public class Fluxo {
 			c.deposita();
 		}
 		System.out.println("Fim do metodo2");
+		//TESTE
 	}
 }
